@@ -3,4 +3,5 @@
 https://github.com/ALRCMt/Taoyuan-CommunistStudyGroup/tree/main
 
 燎原月刊库：
+https://github.com/monthlyliaoyuan/monthlyliaoyuan
 
