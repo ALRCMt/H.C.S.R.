@@ -1,15 +1,19 @@
+
+
+
+<div align="CENTER">
+<img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="150px"/>
+</div>
 <div align="center">
 <h1 align="center">湖南共产主义学习存储库</h1>
+
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
+
 </div>
-<div align="center">
-<img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="200px"/>
-</div>
 
 
-
-
-
-# 序   写在阅读之前：致思考
+## 序   写在阅读之前：致思考
 <div align="right">
 <p align="right">第四稿</p>
 </div>
@@ -40,7 +44,7 @@
 
 
 
- # 主目录 
+ ## 主目录 
 
  **为了方便阅读，我将资料整理成了五类**
 
