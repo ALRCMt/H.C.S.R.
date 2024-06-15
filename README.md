@@ -1,19 +1,22 @@
 
-
-
 <div align="CENTER">
 <img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="150px"/>
 </div>
 <div align="center">
 <h1 align="center">湖南共产主义学习存储库</h1>
-这里是"湖南共产主义学习"储存库，用于帮助自主学习马列主义毛泽东思想（马列毛），或者只是获取一些资料与途径
-
+<p>这里是<strong> "湖南共产主义学习" </strong>Github储存库，是由一名湖南学生编撰的书单
+<br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
+ 
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
+[![QQ](https://img.shields.io/badge/QQ-ALRCMt-blue.svg)](https://user.qzone.qq.com/1423104595?source=namecardhoverqzone)
+[![YouTube](https://img.shields.io/badge/YouTube-ALRCMt-red.svg)]()
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-ALRCMt-black.svg)]()
+
 
 </div>
 
 
-## 序   写在阅读之前：致思考
+##   写在阅读之前：致思考
 <div align="right">
 <p align="right">第四稿</p>
 </div>
@@ -48,17 +51,33 @@
 
  **为了方便阅读，我将资料整理成了五类**
 
-  - **（一） 政治、经济、哲学基础**
-
+- **（一） 政治、经济、哲学基础**
 
     主要收编出版或出版过的著名作品，及其注释版，如《毛泽东全集》《共产主义ABC》等
-    <br />但是，一些重要著作，如《资本论》等，没有收录，因为纸质书籍
+    <br />但是，一些重要著作，如《资本论》等，没有收录，因为纸质书籍比电子档更能引发思考、促进理，请尽可能阅读纸质书
+****
 
+- **（二） 史论、批判、回忆录等**
 
+   主要收编历史上较为出名、影响较大的史论、批判、回忆录、思考、讲话、建议、评论等，分成中国与世界两个部分。如《巨人的背影》《共和国的历程》等
+   <br />注意，我将一些篇幅较小的当代史论放在了 **第（三）类**
+****
+  
+- **（三） 当代时评、宣传总结等**
 
+   主要收编一些当代时事评论、入门读物、宣传及对史事的观点等，分成中国与世界两个部分。如《星火手册》《天下大乱》等
+****
 
+- **（四） 数据资料、词汇解释等**
 
+   主要收编了经济政治数据、年代时间线及各种词汇的解释，分成中国、苏联（俄罗斯）、世界三个部分
+****
+ 
+- **（五） 杂乱文件**
 
+   主要收编了 1.意义不大，应该有参考价值的书籍 2.各种视频、音频、图像等文件，如《审判江青》 3.一些意义不明、不知其然的文字
+****
+  
 
 
 
