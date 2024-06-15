@@ -79,6 +79,9 @@
 ****
   
 
+<div align="CENTER">
+<img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/5d89dc19-7d07-48f7-b2b6-dbe2eeffb62b" alt="feihua" width="450px"/>
+</div>
 
 
 
