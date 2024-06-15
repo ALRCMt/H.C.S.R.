@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="200px"/>
-
+</div>
 
 
 
