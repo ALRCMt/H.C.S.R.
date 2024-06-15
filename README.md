@@ -1,7 +1,18 @@
 <div align="center">
-<h1 align="center">写在阅读之前：致思考</h1>
+<h1 align="center">湖南共产主义学习存储库</h1>
 </div>
+<div align="center">
+<img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="200px"/>
 
+
+
+
+
+
+# 序   写在阅读之前：致思考
+<div align="right">
+<p align="right">第四稿</p>
+</div>
 
  
 **同志，你好！**
@@ -21,12 +32,11 @@
   以上，是我的希望，就当作序。
 
    <div align="right"> 
-  <span align="right">ALRCMt</span>
-     <div align="right"> 
-  <span align="right"> 2024.5.27夜</span>
-       <div align="right"> 
-   <span align="right">于桃源</span>
-     </div> </div> </div>
+  <span align="right">ALRCMt
+   <br />2024.5.27夜
+   <br />于桃源</span>
+   </div>
+
 
 
 
@@ -38,9 +48,7 @@
 
 
     主要收编出版或出版过的著名作品，及其注释版，如《毛泽东全集》《共产主义ABC》等
-    </div>但是，一些重要著作，如《资本论》等，没有收录，因为纸质书籍
-
-
+    <br />但是，一些重要著作，如《资本论》等，没有收录，因为纸质书籍
 
 
 
