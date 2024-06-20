@@ -7,7 +7,7 @@
 <h1 align="center">湖南共产主义学习库<br />H.C.S.R.</h1>
 <p>这里是<strong> "湖南共产主义学习" </strong>Github储存库，是由一名湖南学生编撰的书单
 <br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
- 
+ <img scr="https://git.suthby.org:2024/ALRCMt/GNG_R/raw/commit/3a92cf402557e5a3bea1c1898d6418ada71cabe3/60AF7E9C-6D66-4791-A931-2C58D2FAE72D.png" alt="a" width="150px"/>
 
 [![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![编辑部QQ](https://img.shields.io/badge/QQ群-H.C.S.R.编辑部-orange.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
