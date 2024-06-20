@@ -1,6 +1,9 @@
 
 <div align="CENTER">
 <img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/0c0dd11f-5cb6-449f-9026-436c1117977a" alt="HSCR" width="150px"/>
+<div align="right">
+<p>电话好多好多好多</p>
+</div>
 </div>
 <div align="center">
 <h1 align="center">湖南共产主义学习存储库</h1>
