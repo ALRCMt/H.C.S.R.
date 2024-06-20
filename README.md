@@ -98,11 +98,11 @@ https://zh.b-ok.org/
 https://library.proletarian.me/
 
 
-  4.PDFDRIVE:
+  4.PDFDRIVE
 https://www.pdfdrive.com/ 
 
 
-  5.Library Genesis: 
+  5.Library Genesis:
 https://libgen.unblockit.bet/
 
 
@@ -127,8 +127,11 @@ https://nav.yibook.org/
 
 ### 左翼时事评论网址
 
-1.国际共产主义官网
- ci-ic.org
+  1.国际共产主义官网
+https://ci-ic.org
+
+  2.乌有之乡
+http://wyzxwk.com
 
 
 
