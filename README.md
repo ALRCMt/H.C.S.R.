@@ -10,7 +10,7 @@
  
 
 [![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-grey.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=T_mBJusPKwglXubarZxYCcTyc7s8Ymj9&personal_qrcode_source=3#)
-[![编辑部QQ](https://img.shields.io/badge/编辑部QQ-white.svg-H.C.S.R.-grey.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
+[![编辑部QQ](https://img.shields.io/badge/H.C.S.R.-orange.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
 [![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)](https://t.me/+8613418488160)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
