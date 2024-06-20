@@ -8,10 +8,10 @@
 <br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
  
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
-[![QQ](https://img.shields.io/badge/QQ-ALRCMt-blue.svg)](https://user.qzone.qq.com/1423104595?source=namecardhoverqzone)
-[![YouTube](https://img.shields.io/badge/YouTube-ALRCMt-red.svg)]()
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-ALRCMt-black.svg)]()
-
+[![我的QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
+[![YouTube](https://img.shields.io/badge/YouTube-ALRCMt-red.svg)](https://youtube.com/@mtalrc?si=1u8Fnb3GCKwNLOPb)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-ALRCMt-black.svg)](https://twitter.com/alrcmt?s=21)
+[![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)]()
 
 </div>
 
