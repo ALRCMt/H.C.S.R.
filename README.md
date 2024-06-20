@@ -9,9 +9,10 @@
  
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
 [![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=T_mBJusPKwglXubarZxYCcTyc7s8Ymj9&personal_qrcode_source=3#)
+[![编辑部QQ](https://img.shields.io/badge/编辑部QQ-H.C.S.R.-white.svg)](）
 [![YouTube](https://img.shields.io/badge/YouTube-ALRCMt-red.svg)](https://youtube.com/@mtalrc?si=1u8Fnb3GCKwNLOPb)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-ALRCMt-black.svg)](https://twitter.com/alrcmt?s=21)
-[![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)]()
+[![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)](https://t.me/+8613418488160)
 
 </div>
 
