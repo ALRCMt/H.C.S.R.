@@ -85,24 +85,43 @@
  # 一些文章书籍来源
   如果打不开就挂全局代理(VPN)
 ### 参考书籍电子档网址
+
   1.鸠摩搜书
 http://www.jiumodiary.com
+
+
   2.Zlibrary
 https://zh.b-ok.org/
+
+
   3.无产阶级图书馆
 https://library.proletarian.me/
+
+
   4.PDFDRIVE:
 https://www.pdfdrive.com/ 
+
+
   5.Library Genesis: 
 https://libgen.unblockit.bet/
+
+
   6.国家哲学社会科学文献中心
 http://www.ncpssd.org/index.aspx
+
+
   7.全国图书馆参考咨询联盟
 http://www.ucdrs.superlib.net/ 
+
+
   8.Open Textbook Library
 https://open.umn.edu/opentextbooks/ 
+
+
   9.The Online Books Page
 https://onlinebooks.library.upenn.edu/ 
+
+
   10.易书
 https://nav.yibook.org/ 
 
