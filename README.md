@@ -82,7 +82,37 @@
 
    主要收编了 1.意义不大，应该有参考价值的书籍 2.各种视频、音频、图像等文件，如《审判江青》 3.一些意义不明、不知其然的文字
 ****
-  
+ # 一些文章书籍来源
+  如果打不开就挂全局代理(VPN)
+### 参考书籍电子档网址
+  1.鸠摩搜书
+http://www.jiumodiary.com
+  2.Zlibrary
+https://zh.b-ok.org/
+  3.无产阶级图书馆
+https://library.proletarian.me/
+  4.PDFDRIVE:
+https://www.pdfdrive.com/ 
+  5.Library Genesis: 
+https://libgen.unblockit.bet/
+  6.国家哲学社会科学文献中心
+http://www.ncpssd.org/index.aspx
+  7.全国图书馆参考咨询联盟
+http://www.ucdrs.superlib.net/ 
+  8.Open Textbook Library
+https://open.umn.edu/opentextbooks/ 
+  9.The Online Books Page
+https://onlinebooks.library.upenn.edu/ 
+  10.易书
+https://nav.yibook.org/ 
+
+### 左翼时事评论网址
+
+1.国际共产主义官网
+ ci-ic.org
+
+
+
 
 <div align="CENTER">
 <img src="https://github.com/ALRCMt/Hunan-CommunistStudy-Repositories/assets/140961960/5d89dc19-7d07-48f7-b2b6-dbe2eeffb62b" alt="声明或者说是废话" width="450px"/>
