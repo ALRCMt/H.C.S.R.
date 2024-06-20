@@ -9,7 +9,7 @@
 <br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
  
 
-[![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=T_mBJusPKwglXubarZxYCcTyc7s8Ymj9&personal_qrcode_source=3#)
+[![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![编辑部QQ](https://img.shields.io/badge/QQ群-H.C.S.R.编辑部-orange.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
 [![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)](https://t.me/+8613418488160)
 
@@ -39,7 +39,7 @@
 
   本库并没有什么官方交流群，重要的是自身的思考总结，但我并不赞同闭门造车，相反，与他人交流才会有思维的碰撞，一场辩论的意义不在于证明谁对谁错，而是得到共同认可的更好的观点。所以面对不同的声音，请保持冷静与思考，要多想：对方为什么有这样的观点？什么样的社会背景铸就了这样的思想？自以为是，无依据的扣帽子，又有什么益处呢。记住 ***“没有调查，没有发言权”！***
 
-  另外，本人只是一名普通的学生，编录有舒忽请见谅，若有好的建议或文件，欢迎指导
+  另外，本人只是一名普通的学生，编录有舒忽请见谅，若有好的建议或文件，欢迎[指导](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 
   以上，是我的希望，就当作序。
 
