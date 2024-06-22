@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-<h1 align="center">湖南共产主义学习库 H.C.S.R.<br />Hunan-CommunistStudy-Repositories</h1>
+<h1 align="center">湖南共产主义学习库 H.C.S.R.<br />(Hunan-CommunistStudy-Repositories)</h1>
 <p>这里是<strong> "湖南共产主义学习" </strong>Github储存库，是由一名湖南学生编撰的书单
 <br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
 
