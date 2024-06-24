@@ -135,6 +135,14 @@ http://wyzxwk.com
   3.燎原革命导航
 https://liaoyuan.store
 
+  中华人民共和国历史小组 
+http://prchistory.org
+
+  JOJO看报 
+https://reader.jojokanbao.cn
+  燎原月刊 
+https://github.com/monthlyliaoyuan/monthlyliaoyuan
+
 
 
 
