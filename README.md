@@ -4,9 +4,9 @@
 
 </div>
 <div align="center">
-<h1 align="center">湖南共产主义学习库 H.C.S.R.<br />(Hunan-CommunistStudy-Repositories)</h1>
-<p>这里是<strong> "湖南共产主义学习" </strong>Github储存库，是由一名湖南学生编撰的书单
-<br />用于帮助自主学习<b>马列主义毛泽东思想（马列毛）</b>，或者只是获取一些资料与途径</p>
+<h1 align="center">湖南马列毛资料库 H.M.D.R.<br />(Hunan MLM Documents-Repository)</h1>
+<p>这里是<strong> "湖南马列毛学习" </strong>Github储存库，是由一名湖南学生整理的资料库
+<br />用于帮助学习<b>马列主义毛泽东思想（马列毛）</b>，获取各种资料及其来源</p>
 
 [![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![编辑部QQ](https://img.shields.io/badge/QQ群-H.C.S.R.编辑部-orange.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
@@ -28,9 +28,11 @@
  
 **同志，你好！**
 
-  本储存库旨在帮助像我一样的广大同志系统了解****马列毛主义****，收录了[各种文章与资料](#%E4%B8%BB%E7%9B%AE%E5%BD%95)以及[来源途径](#%E4%B8%80%E4%BA%9B%E6%96%87%E7%AB%A0%E4%B9%A6%E7%B1%8D%E6%9D%A5%E6%BA%90)等
-
-  但请注意，不管你相信马列毛主义、社民主义、无政府主义还是自由主义，也无论你是唯物主义者、不可知论者或随便什么论者，***思考*** 都是重要的，请辩证地对待每一篇文章，既不漠视，也不轻信。人既然都有思维能力，为什么不能尝试去思考，去怀疑，未必别人说的就对或都不对，一定要联系一定要联系自身实际，再得出结论。
+  本储存库旨在帮助像我一样的广大同志系统了解****马列毛****，收录了[各种文章与资料](#%E4%B8%BB%E7%9B%AE%E5%BD%95)以及[来源途径](#%E4%B8%80%E4%BA%9B%E6%96%87%E7%AB%A0%E4%B9%A6%E7%B1%8D%E6%9D%A5%E6%BA%90)等
+  
+  尽管是为学习****马列毛****所建，本库仍收录了许多不同论调的文章、著作，皆不作删改，请各位批判看到待
+  
+  但请注意，不管你相信马列毛主义、社民主义、无政府主义还是自由主义，也无论你是唯物主义者、不可知论者或随便什么论者，***思考*** 都是重要的，请辩证地对待每一篇文章，既不盲目否定，也不轻信。人既然都有思维能力，为什么不能尝试去思考，去怀疑，未必别人说的就对或都不对，一定要联系一定要联系自身实际，再得出结论。
 
   ***“许多学说之所以被称为真理，不在于创立这些学说的时候，而在于为尔后的实践所证实的时候。——《实践论》”***
 
