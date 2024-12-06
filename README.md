@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-<h1 align="center">湖南马列毛资料库 H.M.D.R.<br />(Hunan MLM Documents-Repository)</h1>
+<h1 align="center">湖南马列毛资料库 H.M.R.<br />(Hunan MLM Documents-Repository)</h1>
 <p>这里是<strong> "湖南马列毛学习" </strong>Github储存库，是由一名湖南学生整理的资料库
 <br />用于帮助学习<b>马列主义毛泽东思想（马列毛）</b>，获取各种资料及其来源</p>
 
