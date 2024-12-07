@@ -8,13 +8,11 @@
 <p>这里是<strong> "湖南马列毛学习" </strong>Github储存库，是由一名湖南学生整理的资料库
 <br />用于帮助学习<b>马列主义毛泽东思想（马列毛）</b>，获取各种资料及其来源</p>
 
-[![我的QQ](https://img.shields.io/badge/我的QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
-[![编辑部QQ](https://img.shields.io/badge/QQ群-H.C.S.R.编辑部-orange.svg)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9XVSMbGCnXhqfKsTe_cd5ZQMXPBIuiTD&authKey=38wm7kB3jl6olO3a4iVkTLkdQfDSjfwiGdswKqNoGT8VjifnHaCt8VWStHvJ7aaJ&noverify=0&group_code=921145609)
-[![Telegram](https://img.shields.io/badge/Telegram-Mt_ALRC-blue.svg)](https://t.me/+8613418488160)
-
+[![Github](https://img.shields.io/badge/Github-ALRCMt-black.svg)](https://github.com/ALRCMt)
+[![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
+[![邮箱](https://img.shields.io/badge/邮箱-b122330417@163.com-orange.svg)](mailto:b122330417@163.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt(被封)-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
-[![YouTube](https://img.shields.io/badge/YouTube-ALRCMt-red.svg)](https://youtube.com/@mtalrc?si=1u8Fnb3GCKwNLOPb)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-ALRCMt-black.svg)](https://twitter.com/alrcmt?s=21)
+
 
 
 </div>
@@ -28,19 +26,21 @@
  
 **同志，你好！**
 
-  本储存库旨在帮助像我一样的广大同志系统了解****马列毛****，收录了[各种文章与资料](#%E4%B8%BB%E7%9B%AE%E5%BD%95)以及[来源途径](#%E4%B8%80%E4%BA%9B%E6%96%87%E7%AB%A0%E4%B9%A6%E7%B1%8D%E6%9D%A5%E6%BA%90)等
   
-  尽管是为学习****马列毛****所建，本库仍收录了许多不同论调的文章、著作，皆不作删改，请各位批判看到待
+  
+  本储存库旨在帮助像我一样的广大同志系统了解****马列毛****，收录了各种文章与资料以及来源途径等
+  
+  尽管是为学习****马列毛****所建，本库仍收录了许多不同论调甚至偏向反动的文章、著作，皆不作删改，请各位批判看到待
   
   但请注意，不管你相信马列毛主义、社民主义、无政府主义还是自由主义，也无论你是唯物主义者、不可知论者或随便什么论者，***思考*** 都是重要的，请辩证地对待每一篇文章，既不盲目否定，也不轻信。人既然都有思维能力，为什么不能尝试去思考，去怀疑，未必别人说的就对或都不对，一定要联系一定要联系自身实际，再得出结论。
 
   ***“许多学说之所以被称为真理，不在于创立这些学说的时候，而在于为尔后的实践所证实的时候。——《实践论》”***
 
-  同时也要注意 *“有的文章你一看，观点与你不一样，你要硬着头皮看下去，哪怕看到一半已经知道他在胡说，你要看看他是怎么胡说的。——孔庆东”* 学习不是为图一时爽，所以我认为 ***“阅读—思考—再阅读”*** 是好的也是重要的学习方法。
+  同时也要注意 *“有的文章你一看，观点与你不一样，你要硬着头皮看下去，哪怕看到一半已经知道他在胡说，你要看看他是怎么胡说的——孔庆东”* 学习不是为图一时爽，所以我认为 ***“阅读—思考—再阅读”*** 是好的也是重要的学习方法。
 
   本库并没有什么官方交流群，重要的是自身的思考总结，但我并不赞同闭门造车，相反，与他人交流才会有思维的碰撞，一场辩论的意义不在于证明谁对谁错，而是得到共同认可的更好的观点。所以面对不同的声音，请保持冷静与思考，要多想：对方为什么有这样的观点？什么样的社会背景铸就了这样的思想？自以为是，无依据的扣帽子，又有什么益处呢。记住 ***“没有调查，没有发言权”！***
 
-  另外，本人只是一名普通的学生，编录有舒忽请见谅，若有好的建议或文件，[欢迎指导](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
+  另外，本人只是一名普通的学生，编录有舒忽请见谅，若有好的建议或乐意提供文件，[***欢迎指导。***](mailto:b122330417@163.com)
 
   以上，是我的希望，就当作序。
 
@@ -53,7 +53,7 @@
 
 
 
- ## 主目录 
+ <!-- ## 主目录 
 
  **为了方便阅读，我将资料整理成了五类**
 
@@ -95,6 +95,8 @@
 <br />1.各种视频、音频、图像等文件，如《审判江青》 
 <br />2.一些意义不明、不知其然的文字
 ****
+
+-->
  ## 一些文章书籍来源
   如果打不开就挂全局代理(VPN)
 ### 参考书籍电子档网址
